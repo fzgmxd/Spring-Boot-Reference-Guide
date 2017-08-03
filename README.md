@@ -5,3 +5,5 @@ Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
 
 GitBook : [Spring Boot参考指南](https://jack80342.gitbooks.io/spring-boot/content/)
 
+GitHub : [Spring Boot参考指南](https://github.com/jack80342/Spring-Boot-Reference-Guide)
+
