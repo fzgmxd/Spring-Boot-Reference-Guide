@@ -135,7 +135,7 @@
          * [27.1.9. 错误处理](IV. Spring Boot features/27.1.9. Error Handling.md)
          * [27.1.10. Spring HATEOAS](IV. Spring Boot features/27.1.10. Spring HATEOAS.md)
          * [27.1.11. CORS支持](IV. Spring Boot features/27.1.11. CORS support.md)
-      * [27.2 JAX-RS和Jersey](IV. Spring Boot features/27.2 JAX-RS and Jersey.md)
+      * [27.2. JAX-RS和Jersey](IV. Spring Boot features/27.2. JAX-RS and Jersey.md)
       * [27.3 内嵌servlet容器支持](IV. Spring Boot features/27.3 Embedded servlet container support.md)
          * [27.3.1 Servlets, Filters和listeners](IV. Spring Boot features/27.3.1 Servlets, Filters, and listeners.md)
          * [27.3.2 Servlet上下文初始化](IV. Spring Boot features/27.3.2 Servlet Context Initialization.md)
