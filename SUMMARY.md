@@ -139,7 +139,7 @@
       * [27.3 内嵌servlet容器支持](IV. Spring Boot features/27.3 Embedded servlet container support.md)
          * [27.3.1 Servlets, Filters和listeners](IV. Spring Boot features/27.3.1 Servlets, Filters, and listeners.md)
          * [27.3.2 Servlet上下文初始化](IV. Spring Boot features/27.3.2 Servlet Context Initialization.md)
-         * [27.3.3 EmbeddedWebApplicationContext](IV. Spring Boot features/27.3.3 The EmbeddedWebApplicationContext.md)
+         * [27.3.3 ServletWebServerApplicationContext](IV. Spring Boot features/27.3.3 The ServletWebServerApplicationContext.md)
          * [27.3.4 自定义内嵌servlet容器](IV. Spring Boot features/27.3.4 Customizing embedded servlet containers.md)
          * [27.3.5 JSP的限制](IV. Spring Boot features/27.3.5 JSP limitations.md)
    * [28. 安全](IV. Spring Boot features/28. Security.md)
