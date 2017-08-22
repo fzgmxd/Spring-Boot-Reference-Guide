@@ -161,7 +161,7 @@
          * [29.3.1. 实体类](IV. Spring Boot features/29.3.1. Entity Classes.md)
          * [29.3.2. Spring Data JPA仓库](IV. Spring Boot features/29.3.2. Spring Data JPA Repositories.md)
          * [29.3.3. 创建和删除JPA数据库](IV. Spring Boot features/29.3.3. Creating and dropping JPA databases.md)
-         * [29.3.4. 在视图中打开实体管理器](IV. Spring Boot features/29.3.3. Open EntityManager in View.md)
+         * [29.3.4. 在视图中打开实体管理器](IV. Spring Boot features/29.3.4. Open EntityManager in View.md)
       * [29.4 使用H2的web控制台](IV. Spring Boot features/29.4 Using H2’s web console.md)
          * [29.4.1 改变H2控制台路径](IV. Spring Boot features/29.4.1 Changing the H2 console’s path.md)
          * [29.4.2 保护H2控制台](IV. Spring Boot features/29.4.2 Securing the H2 console.md)
