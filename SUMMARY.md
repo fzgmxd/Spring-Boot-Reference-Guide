@@ -291,7 +291,7 @@
          * [45.4.3 Starter模块](IV. Spring Boot features/45.4.3 Starter module.md)
    * [46. 接下来阅读什么](IV. Spring Boot features/46. What to read next.md)
 * [V. Spring Boot执行器: Production-ready特性](V. Spring Boot Actuator/README.md)
-   * [45. 开启production-ready特性](V. Spring Boot Actuator/45. Enabling production-ready features.md)
+   * [47. 开启production-ready特性](V. Spring Boot Actuator/47. Enabling production-ready features.md)
    * [46. 端点](V. Spring Boot Actuator/46. Endpoints.md)
       * [46.1 自定义端点](V. Spring Boot Actuator/46.1 Customizing endpoints.md)
       * [46.2 执行器MVC端点的超媒体支持](V. Spring Boot Actuator/46.2 Hypermedia for actuator MVC endpoints.md)
