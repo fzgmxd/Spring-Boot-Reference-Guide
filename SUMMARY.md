@@ -514,7 +514,7 @@
       * [85.2 为老的servlet容器创建可部署的war文件](IX. ‘How-to’ guides/85.2 Create a deployable war file for older servlet containers.md)
       * [85.3 将现有的应用转换为Spring Boot](IX. ‘How-to’ guides/85.3 Convert an existing application to Spring Boot.md)
       * [85.4 部署WAR到Weblogic](IX. ‘How-to’ guides/85.4 Deploying a WAR to Weblogic.md)
-      * [85.5 部署WAR到老的(Servlet2.5)容器](IX. ‘How-to’ guides/85.5 Deploying a WAR in an Old (Servlet 2.5) Container.md)
+      * [85.5 部署WAR到老的(Servlet2.5)容器](IX. ‘How-to’ guides/85.5 Deploying a WAR in an Old（Servlet 2.5）Container.md)
       * [85.6 使用Lettuce来代替Jedis](IX. ‘How-to’ guides/85.6 Use Lettuce instead of Jedis.md)
 * [X.附录](X. Appendices/README.md)
    * [附录A. 常见应用属性](X. Appendices/A. Common application properties.md) 
