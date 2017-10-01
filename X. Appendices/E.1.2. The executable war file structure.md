@@ -1,8 +1,8 @@
-### 附录D.1.2. 可执行war文件结构
+### 附录 E.1.2. 可执行war文件结构
 
 Spring Boot Loader兼容的war文件应该遵循以下结构：
 ```java
-example.jar
+example.war
  |
  +-META-INF
  |  +-MANIFEST.MF
@@ -16,7 +16,7 @@ example.jar
     |  +-com
     |     +-mycompany
     |        +-project
-    |           +-YouClasses.class
+    |           +-YourClasses.class
     +-lib
     |  +-dependency1.jar
     |  +-dependency2.jar
