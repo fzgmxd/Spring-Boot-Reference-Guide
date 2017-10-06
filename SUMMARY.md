@@ -243,7 +243,7 @@
       * [36.5 混合XA和non-XA的JMS连接](IV. Spring Boot features/36.5 Mixing XA and non-XA JMS connections.md)
       * [36.6 支持可替代的内嵌事务管理器](IV. Spring Boot features/36.6 Supporting an alternative embedded transaction manager.md)
    * [37. Hazelcast](IV. Spring Boot features/37. Hazelcast.md)
-   * [38. Quartz Scheduler](IV. Spring Boot features/38. Quartz Scheduler.md)
+   * [38. Quartz调度器](IV. Spring Boot features/38. Quartz Scheduler.md)
    * [39. Spring集成](IV. Spring Boot features/39. Spring Integration.md)
    * [40. Spring Session](IV. Spring Boot features/40. Spring Session.md)
    * [41. 基于JMX的监控和管理](IV. Spring Boot features/41. Monitoring and management over JMX.md)
