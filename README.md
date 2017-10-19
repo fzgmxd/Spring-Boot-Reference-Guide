@@ -15,5 +15,5 @@ GitHub : [Spring Boot参考指南](https://github.com/jack80342/Spring-Boot-Refe
 |:----|:----|:----|
 |![ALiPay](https://github.com/jack80342/Materials/raw/master/Spring-Boot-Reference-Guide/alipay.jpg)|![WeChatPay](https://github.com/jack80342/Materials/raw/master/Spring-Boot-Reference-Guide/wechatpay.jpg)|![PayPal](https://github.com/jack80342/Materials/raw/master/Spring-Boot-Reference-Guide/paypal.jpg)|
 
-附上小白午睡的照片🐈  
+附上小白午睡的照片🐈  
 ![小白](https://github.com/jack80342/Materials/raw/master/Spring-Boot-Reference-Guide/xiaobai.jpg)
