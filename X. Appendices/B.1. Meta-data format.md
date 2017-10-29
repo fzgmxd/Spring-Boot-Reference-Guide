@@ -69,7 +69,7 @@ server.servlet.path=/home
 ```
 "groups"是高级别的节点，它们本身不指定一个值，但为properties提供一个有上下文关联的分组。例如，`server.port`和`server.servlet.path`属性是`server`组的一部分。
 
-**注**：不需要每个"property"都有一个"group"，一些属性可以以自己的形式存在。
+**注** 不需要每个"property"都有一个"group"，一些属性可以以自己的形式存在。
 
 
 
