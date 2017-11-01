@@ -1,27 +1,14 @@
 ### 附录B.1.3. 提示属性
 
-The JSON object contained in the hints array can contain the following attributes:
+`hints`数组中包含的JSON对象能够包含以下属性：
 
-Name	Type	Purpose
-name
+|名称|类型|目的|
+|----|:----|:----|
+|`name`|String|这个提示参考的property的全名。格式为小写虚线分割的形式（比如`server.servlet.path`）。如果这个属性参考一个map（比如`system.contexts`），提示要么应用到map的key（`system.context.keys`）上，要么应用到value上（`system.context.values`）。该属性是强制性的|
+|`values`|ValueHint[]|由`ValueHint`对象定义的有效值的列表（看下面）。每一个入口都定义了值，并可能有一段描述|
+|`providers`|ValueProvider[]|由`ValueProvider`对象定义的提供者的列表（看下面）。每一个入口都定义了提供者的名字和它的参数，如果有的话|
 
-String
-
-The full name of the property that this hint refers to. Names are in lowercase dashed form (e.g. server.servlet.path). If the property refers to a map (e.g. system.contexts) the hint either applies to the keys of the map (system.context.keys) or the values (system.context.values). This attribute is mandatory.
-
-values
-
-ValueHint[]
-
-A list of valid values as defined by the ValueHint object (see below). Each entry defines the value and may have a description
-
-providers
-
-ValueProvider[]
-
-A list of providers as defined by the ValueProvider object (see below). Each entry defines the name of the provider and its parameters, if any.
-
-The JSON object contained in the values attribute of each hint element can contain the following attributes:
+每一个`hint`元素的`values`属性包含的JSON对象可以包含如下的属性：
 
 Name	Type	Purpose
 value

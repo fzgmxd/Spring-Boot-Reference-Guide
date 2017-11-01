@@ -1,6 +1,6 @@
 ### 附录B.1.2. Property属性
 
-`properties`数组中包含的JSON对象可由以下属性构成：
+`properties`数组中包含的JSON对象可以包含以下属性：
 
 |名称|类型|目的|
 |----|:----|:----|
@@ -11,7 +11,7 @@
 |`defaultValue`|Object|当property没有定义时使用的默认值。如果property类型是个数组则该属性也可以是个数组。如果默认值未知则该属性会被忽略|
 |`deprecated`|Deprecation|指定该property是否弃用。如果该字段没有弃用或该信息未知则该属性会被忽略。更多细节请查看下面|
 
-每一个`properties`的`deprecation`属性包含的JSON对象可以包含如下的属性：
+每一个`properties`元素的`deprecation`属性包含的JSON对象可以包含如下的属性：
 
 |名称|类型|目的|
 |----|:----|:----|
