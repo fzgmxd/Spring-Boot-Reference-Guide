@@ -1,10 +1,10 @@
-### 附录B.1.3. 提示属性
+### 附录B.1.3. Hint属性
 
 `hints`数组中包含的JSON对象能够包含以下属性：
 
 |名称|类型|目的|
 |----|:----|:----|
-|`name`|String|这个提示参考的property的全名。格式为小写虚线分割的形式（比如`server.servlet.path`）。如果这个属性参考一个map（比如`system.contexts`），提示要么应用到map的key（`system.context.keys`）上，要么应用到value上（`system.context.values`）。该属性是强制性的|
+|`name`|String|该hint参考的property的全名。格式为小写虚线分割的形式（比如`server.servlet.path`）。如果这个属性参考一个map（比如`system.contexts`），hint要么应用到map的key（`system.context.keys`）上，要么应用到value上（`system.context.values`）。该属性是强制性的|
 |`values`|ValueHint[]|由`ValueHint`对象定义的有效值的列表（看下面）。每一个入口都定义了值，并可能有一段描述|
 |`providers`|ValueProvider[]|由`ValueProvider`对象定义的提供者的列表（看下面）。每一个入口都定义了提供者的名字和它的参数，如果有的话|
 
