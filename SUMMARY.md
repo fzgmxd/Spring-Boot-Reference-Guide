@@ -523,7 +523,7 @@
          * [附录B.1.2. Property属性](X. Appendices/B.1.2. Property Attributes.md)
          * [附录B.1.3. Hint属性](X. Appendices/B.1.3 Hint Attributes.md)
          * [附录B.1.4. 可重复的元数据节点](X. Appendices/B.1.4. Repeated meta-data items.md)
-      * [附录B.2. Providing manual hints](X. Appendices/B.2 Providing manual hints.md)
+      * [附录B.2. 提供人工提示](X. Appendices/B.2 Providing manual hints.md)
          * [附录 B.2.1 Value hint](X. Appendices/B.2.1 Value hint.md)
          * [附录 B.2.2 Value provider](X. Appendices/B.2.2 Value provider.md)
       * [附录B.3. 使用注解处理器产生自己的元数据](X. Appendices/B.3. Generating your own meta-data using the annotation processor.md)

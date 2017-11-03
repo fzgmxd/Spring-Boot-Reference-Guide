@@ -1,8 +1,6 @@
-### 附录B.2 Providing manual hints
+### 附录B.2 提供人工提示
 
-To improve the user experience and further assist the user in configuring a given property, you can provide additional meta-data that:
+为了优化用户体验，协助用户配置一个给定的属性，你可以提供额外的元数据：
 
-Describes the list of potential values for a property.
-Associates a provider to attach a well-defined semantic to a property so that a tool can discover the list of potential values based on the project’s context.
-
-
+1. 描述一个属性的可能值的列表。
+2. 联系提供者，将良好定义的语义添加到属性上。这样，工具就可以基于工程的上下文，发现可能值的列表。
