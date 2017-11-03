@@ -10,30 +10,14 @@
 
 每一个`hint`元素的`values`属性包含的JSON对象可以包含如下的属性：
 
-Name	Type	Purpose
-value
+|名称|类型|目的|
+|----|:----|:----|
+|`value`|Object|该hint参考的元素的有效值。如果属性的类型是数组，那么也可以是有效值的数组。该属性是强制性的|
+|`description`|String|一个简短的对有效值的描述，用于展示给用户。如果没有描述可用则该属性会被省略。推荐使用一个简短的段落描述，开头提供一个简要的总结，最后一行以句号（`.`）结束|
 
-Object
+每一个`hint`元素的`providers`属性包含的JSON对象可以包含如下的属性：
 
-A valid value for the element to which the hint refers to. Can also be an array of value(s) if the type of the property is an array. This attribute is mandatory.
-
-description
-
-String
-
-A short description of the value that can be displayed to users. May be omitted if no description is available. It is recommended that descriptions are a short paragraphs, with the first line providing a concise summary. The last line in the description should end with a period (.).
-
-The JSON object contained in the providers attribute of each hint element can contain the following attributes:
-
-Name	Type	Purpose
-name
-
-String
-
-The name of the provider to use to offer additional content assistance for the element to which the hint refers to.
-
-parameters
-
-JSON object
-
-Any additional parameter that the provider supports (check the documentation of the provider for more details).
+|名称|类型|目的|
+|----|:----|:----|
+|`name`|String|提供者的名字，为该hint参考的元素提供额外的内容。|
+|`parameters`|JSON object|提供者支持的任何额外的内容（更多细节，请查看提供者的文档）|
