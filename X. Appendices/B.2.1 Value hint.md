@@ -1,19 +1,20 @@
-### 附录B.2.1 Value hint
+### 附录B.2.1 值提示
 
-The name attribute of each hint refers to the name of a property. In the initial example above, we provide 5 values for the spring.jpa.hibernate.ddl-auto property: none, validate, update, create and create-drop. Each value may have a description as well.
+每一个hint的`name`属性参考了property的`name`。在上面最初的例子里，我们为`spring.jpa.hibernate.ddl-auto`属性提供了5个值：`none`，`validate`，`update`，`create`和`create-drop`。每个值也可以有一个描述。
 
-If your property is of type Map, you can provide hints for both the keys and the values (but not for the map itself). The special .keys and .values suffixes must be used to refer to the keys and the values respectively.
+如果你的属性不是`Map`类型，你可以为key和value一起提供hint（但不是为map它自己）。特殊的`.keys`和`.values`后缀必须被分别地用于参考keys和values。
 
-Let’s assume a foo.contexts that maps magic String values to an integer:
-
+让我们假设一个`foo.contexts`，它把神奇的String值映射到一个Integer：
+```java
 @ConfigurationProperties("foo")
 public class FooProperties {
 
     private Map<String,Integer> contexts;
     // getters and setters
 }
-The magic values are foo and bar for instance. In order to offer additional content assistance for the keys, you could add the following to the manual meta-data of the module:
-
+```
+例如，神奇的值是foo和bar。为了给key提供额外的内容帮助，你可以将以下内容添加到[模块的手工元数据](https://docs.spring.io/spring-boot/docs/2.0.0.M2/reference/htmlsingle/#configuration-metadata-additional-metadata)：
+```json
 {"hints": [
     {
         "name": "foo.contexts.keys",
@@ -27,8 +28,5 @@ The magic values are foo and bar for instance. In order to offer additional cont
         ]
     }
 ]}
-[Note]
-Of course, you should have an Enum for those two values instead. This is by far the most effective approach to auto-completion if your IDE supports it.
-
-
-
+```
+**注** 当然，对那些有两个值的，你应当有一个替代的`Enum`。如果你的IDE支持，这是目前为止实现自动补全的最有效的方式。
