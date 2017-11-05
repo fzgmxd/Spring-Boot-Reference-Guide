@@ -1,39 +1,23 @@
-### 附录B.2.2 Value provider
+### 附录B.2.2 值提供者
 
-Providers are a powerful way of attaching semantics to a property. We define in the section below the official providers that you can use for your own hints. Bare in mind however that your favorite IDE may implement some of these or none of them. It could eventually provide its own as well.
+提供者是将语义附加到属性上的一种强大的方式。我们在下面的章节里定义了官方的提供者，你可以为你自己的提示使用它们。但是，必须记住：你最喜欢的IDE可能实现了其中的一部分，或者什么也没有实现。它也可以最后提供它自己。
 
-[Note]
-As this is a new feature, IDE vendors will have to catch up with this new feature.
-The table below summarizes the list of supported providers:
+**注** 由于这是一个新特性，IDE供应商将不得不追上这个新特性。
 
-Name    Description
-any
+下面👇的表格总结了支持的提供者的列表：
 
-Permit any additional value to be provided.
+|名称|描述|
+|----|:----|
+|`any`|允许提供额外的值|
+|`class-reference`|自动补全项目里可用的类。通常被一个由`目标`参数指定的基础的类约束|
+|`handle-as`|操作属性，就好像它是由强制的`目标`参数定义的类型一样|
+|`logger-name`|自动补全有效的记录器名。典型地，目前项目里可用的包名和类名会被自动补全|
+|`spring-bean-reference`|自动补全当前项目里可用的bean的名字。通常被一个由`目标`参数指定的基础的类约束|
+|`spring-profile-name`|自动补全当前项目里可用的Spring profile的名字|
 
-class-reference
+**提示** 对于一个给定的属性，只能有一个有效的提供者。但是，如果可以以某种方式共同管理属性，你也可以指定多个提供者。确保把最强大的提供者放在第一位，因为IDE必须使用它能够处理的JSON部分里的第一个。如果对于一个给定的属性，没有提供者提供支持，也不会有特殊的内容帮助被提供。
 
-Auto-complete the classes available in the project. Usually constrained by a base class that is specified via the target parameter.
-
-handle-as
-
-Handle the property as if it was defined by the type defined via the mandatory target parameter.
-
-logger-name
-
-Auto-complete valid logger names. Typically, package and class names available in the current project can be auto-completed.
-
-spring-bean-reference
-
-Auto-complete the available bean names in the current project. Usually constrained by a base class that is specified via the target parameter.
-
-spring-profile-name
-
-Auto-complete the available Spring profile names in the project.
-
-[Tip]
-No more than one provider can be active for a given property but you can specify several providers if they can all manage the property in some ways. Make sure to place the most powerful provider first as the IDE must use the first one in the JSON section it can handle. If no provider for a given property is supported, no special content assistance is provided either.
-Any
+**Any**
 
 The any provider permits any additional values to be provided. Regular value validation based on the property type should be applied if this is supported.
 
