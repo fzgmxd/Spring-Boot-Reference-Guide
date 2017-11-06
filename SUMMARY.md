@@ -507,7 +507,7 @@
       * [84.6 在可执行jar运行时提取特定的版本](IX. ‘How-to’ guides/84.6 Extract specific libraries when an executable jar runs.md)
       * [84.7 使用排除创建不可执行的JAR](IX. ‘How-to’ guides/84.7 Create a non-executable JAR with exclusions.md)
       * [84.8 远程调试使用Maven启动的Spring Boot项目](IX. ‘How-to’ guides/84.8 Remote debug a Spring Boot application started with Maven.md)
-      * [84.9 使用Ant构建可执行存档](IX. ‘How-to’ guides/84.9 Build an executable archive from Ant without using spring-boot-antlib.md)
+      * [84.9 使用Ant构建可执行存档（不使用spring-boot-antlib）](IX. ‘How-to’ guides/84.9 Build an executable archive from Ant without using spring-boot-antlib.md)
    * [85. 传统部署](IX. ‘How-to’ guides/85. Traditional deployment.md)
       * [85.1 创建可部署的war文件](IX. ‘How-to’ guides/85.1 Create a deployable war file.md)
       * [85.2 为老的servlet容器创建可部署的war文件](IX. ‘How-to’ guides/85.2 Create a deployable war file for older servlet containers.md)
