@@ -75,7 +75,6 @@
       * [20.5. 远程应用](III. Using Spring Boot/20.5. Remote applications.md)
          * [20.5.1. 运行远程客户端应用](III. Using Spring Boot/20.5.1. Running the remote client application.md)
          * [20.5.2. 远程更新](III. Using Spring Boot/20.5.2. Remote update.md)
-         * [20.5.3. 远程调试通道](III. Using Spring Boot/20.5.3. Remote debug tunnel.md)
    * [21. 打包用于生产的应用](III. Using Spring Boot/21. Packaging your application for production.md)
    * [22. 接下来阅读什么](III. Using Spring Boot/22. What to read next.md)
 * [IV. Spring Boot特性](IV. Spring Boot features/README.md)
