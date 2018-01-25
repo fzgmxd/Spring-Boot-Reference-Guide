@@ -13,7 +13,7 @@ public class FooProperties {
     // getters and setters
 }
 ```
-例如，神奇的值是foo和bar。为了给key提供额外的内容帮助，你可以将以下内容添加到[模块的手工元数据](https://docs.spring.io/spring-boot/docs/2.0.0.M5/reference/htmlsingle/#configuration-metadata-additional-metadata)：
+例如，神奇的值是foo和bar。为了给key提供额外的内容帮助，你可以将以下内容添加到[模块的手工元数据](https://docs.spring.io/spring-boot/docs/2.0.0.M7/reference/htmlsingle/#configuration-metadata-additional-metadata)：
 ```json
 {"hints": [
     {

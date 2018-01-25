@@ -3,7 +3,7 @@ Spring Boot Reference Guide 2.0 中文翻译 -《Spring Boot参考指南》
 
 说明：
 
-本文档翻译的版本：[2.0.0.RELEASE](https://docs.spring.io/spring-boot/docs/2.0.0.M5/reference/htmlsingle/)
+本文档翻译的版本：[2.0.0.RELEASE](https://docs.spring.io/spring-boot/docs/2.0.0.M7/reference/htmlsingle/)
 
 GitBook : [Spring Boot参考指南](https://jack80342.gitbooks.io/spring-boot/content/)
 
