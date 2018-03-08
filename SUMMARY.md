@@ -3,7 +3,7 @@
 * [I. Spring Boot文档](I. Spring Boot Documentation/README.md)
     * [1. 关于本文档](I. Spring Boot Documentation/1. About the Documentation.md)
     * [2. 获取帮助](I. Spring Boot Documentation/2. Getting Help.md)
-    * [3. 第一步](I. Spring Boot Documentation/3. First steps.md)
+    * [3. 第一步](I. Spring Boot Documentation/3. First Steps.md)
     * [4. 使用Spring Boot](I. Spring Boot Documentation/4. Working with Spring Boot.md)
     * [5. 了解Spring Boot特性](I. Spring Boot Documentation/5. Learning about Spring Boot features.md)
     * [6. 迁移到生产环境](I. Spring Boot Documentation/6. Moving to production.md)
