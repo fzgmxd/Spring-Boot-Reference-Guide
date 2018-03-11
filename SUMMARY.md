@@ -11,7 +11,7 @@
 * [II. 开始](II. Getting Started/README.md)
     * [8. Spring Boot介绍](II. Getting Started/8. Introducing Spring Boot.md)
     * [9. 系统要求](II. Getting Started/9. System Requirements.md)
-      * [9.1. Servlet容器](II. Getting Started/9.1. Servlet containers.md)
+      * [9.1. Servlet容器](II. Getting Started/9.1. Servlet Containers.md)
     * [10. Spring Boot安装](II. Getting Started/10. Installing Spring Boot.md)
       * [10.1. 为Java开发者准备的安装指南](II. Getting Started/10.1. Installation instructions for the Java developer.md)
          * [10.1.1. Maven安装](II. Getting Started/10.1.1. Maven installation.md)
