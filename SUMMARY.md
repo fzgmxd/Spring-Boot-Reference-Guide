@@ -17,7 +17,7 @@
          * [10.1.1. Maven安装](II. Getting Started/10.1.1. Maven Installation.md)
          * [10.1.2. Gradle安装](II. Getting Started/10.1.2. Gradle Installation.md)
       * [10.2. Spring Boot CLI安装](II. Getting Started/10.2. Installing the Spring Boot CLI.md)
-         * [10.2.1. 手动安装](II. Getting Started/10.2.1. Manual installation.md)
+         * [10.2.1. 手动安装](II. Getting Started/10.2.1. Manual Installation.md)
          * [10.2.2. 使用SDKMAN进行安装](II. Getting Started/10.2.2. Installation with SDKMAN.md)
          * [10.2.3. 使用OSX Homebrew进行安装](II. Getting Started/10.2.3. OSX Homebrew installation.md)
          * [10.2.4. 使用MacPorts进行安装](II. Getting Started/10.2.4. MacPorts installation.md)
