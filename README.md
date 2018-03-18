@@ -11,11 +11,8 @@ GitHub : [Spring Boot参考指南](https://github.com/jack80342/Spring-Boot-Refe
 
 我和小白住在东京。  
 我们花了好多个周末，将这本参考指南翻译到最新的版本。  
-如果你想支持我们的工作🙃，你可以给小白买几条小鱼干🐟。
+如果你想支持我们的工作🙃，你可以给小白🐈买几条小鱼干🐟。
 
 |WeChatPay|ALipay|Paypal|
 |:----|:----|:----|
 |![ALiPay](https://github.com/jack80342/Materials/raw/master/Spring-Boot-Reference-Guide/alipay.jpg)|![WeChatPay](https://github.com/jack80342/Materials/raw/master/Spring-Boot-Reference-Guide/wechatpay.jpg)|![PayPal](https://github.com/jack80342/Materials/raw/master/Spring-Boot-Reference-Guide/paypal.jpg)|
-
-附上小白午睡的照片🐈  
-![小白](https://github.com/jack80342/Materials/raw/master/Spring-Boot-Reference-Guide/xiaobai.jpg)
