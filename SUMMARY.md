@@ -24,7 +24,7 @@
          * [10.2.5. 命令行实现](II. Getting Started/10.2.5. Command-line Completion.md)
          * [10.2.6. Spring CLI示例快速入门](II. Getting Started/10.2.6. Quick-start Spring CLI Example.md)
       * [10.3. 从Spring Boot早期版本升级](II. Getting Started/10.3. Upgrading from an Earlier Version of Spring Boot.md)
-   * [11. 开发你的第一个Spring Boot应用](II. Getting Started/11. Developing your first Spring Boot application.md)
+   * [11. 开发你的第一个Spring Boot应用](II. Getting Started/11. Developing Your First Spring Boot Application.md)
       * [11.1. 创建POM](II. Getting Started/11.1. Creating the POM.md)
       * [11.2. 添加classpath依赖](II. Getting Started/11.2. Adding classpath dependencies.md)
       * [11.3. 编写代码](II. Getting Started/11.3. Writing the code.md)
