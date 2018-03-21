@@ -29,7 +29,7 @@
       * [11.2. 添加classpath依赖](II. Getting Started/11.2. Adding Classpath Dependencies.md)
       * [11.3. 编写代码](II. Getting Started/11.3. Writing the Code.md)
          * [11.3.1. @RestController和@RequestMapping注解](II. Getting Started/11.3.1. The @RestController and @RequestMapping Annotations.md)
-         * [11.3.2. @EnableAutoConfiguration注解](II. Getting Started/11.3.2. The @EnableAutoConfiguration Annotations.md)
+         * [11.3.2. @EnableAutoConfiguration注解](II. Getting Started/11.3.2. The @EnableAutoConfiguration Annotation.md)
          * [11.3.3. main方法](II. Getting Started/11.3.3. The “main” Method.md)
       * [11.4. 运行示例](II. Getting Started/11.4. Running the Example.md)
       * [11.5. 创建一个可执行jar](II. Getting Started/11.5. Creating an Executable Jar.md)
