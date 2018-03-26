@@ -38,7 +38,7 @@
    * [13. 构建系统](III. Using Spring Boot/13. Build Systems.md)
       * [13.1. 依赖管理](III. Using Spring Boot/13.1. Dependency Management.md)
       * [13.2. Maven](III. Using Spring Boot/13.2. Maven.md)
-         * [13.2.1. 继承starter parent](III. Using Spring Boot/13.2.1. Inheriting the starter parent.md)
+         * [13.2.1. 继承starter parent](III. Using Spring Boot/13.2.1. Inheriting the Starter Parent.md)
          * [13.2.2. 在不使用parent POM的情况下玩转Spring Boot](III. Using Spring Boot/13.2.2. Using Spring Boot without the parent POM.md)
          * [13.2.3. 使用Spring Boot Maven插件](III. Using Spring Boot/13.2.3. Using the Spring Boot Maven plugin.md)
       * [13.3. Gradle](III. Using Spring Boot/13.3. Gradle.md)
