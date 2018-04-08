@@ -44,7 +44,7 @@
       * [13.3. Gradle](III. Using Spring Boot/13.3. Gradle.md)
       * [13.4. Ant](III. Using Spring Boot/13.4. Ant.md)
       * [13.5. Starters](III. Using Spring Boot/13.5. Starters.md)
-   * [14. 组织你的代码](III. Using Spring Boot/14. Structuring your code.md)
+   * [14. 组织你的代码](III. Using Spring Boot/14. Structuring Your Code.md)
       * [14.1. 使用"default"包](III. Using Spring Boot/14.1. Using the “default” package.md)
       * [14.2. 放置应用的main类](III. Using Spring Boot/14.2. Locating the main application class.md)
    * [15. 配置类](III. Using Spring Boot/15. Configuration classes.md)
