@@ -49,7 +49,7 @@
       * [14.2. 放置应用的main类](III. Using Spring Boot/14.2. Locating the Main Application Class.md)
    * [15. 配置类](III. Using Spring Boot/15. Configuration Classes.md)
       * [15.1. 导入其他配置类](III. Using Spring Boot/15.1. Importing Additional Configuration Classes.md)
-      * [15.2. 导入XML配置](III. Using Spring Boot/15.2. Importing XML configuration.md)
+      * [15.2. 导入XML配置](III. Using Spring Boot/15.2. Importing XML Configuration.md)
    * [16. 自动配置](III. Using Spring Boot/16. Auto-configuration.md)
       * [16.1. 逐步替换自动配置](III. Using Spring Boot/16.1. Gradually replacing auto-configuration.md)
       * [16.2. 禁用特定的自动配置](III. Using Spring Boot/16.2. Disabling specific auto-configuration.md)
