@@ -61,7 +61,7 @@
       * [19.3. 使用Maven插件运行](III. Using Spring Boot/19.3. Using the Maven Plugin.md)
       * [19.4. 使用Gradle插件运行](III. Using Spring Boot/19.4. Using the Gradle Plugin.md)
       * [19.5. 热交换](III. Using Spring Boot/19.5. Hot Swapping.md)
-   * [20. 开发者工具](III. Using Spring Boot/20. Developer tools.md)
+   * [20. 开发者工具](III. Using Spring Boot/20. Developer Tools.md)
       * [20.1. 默认属性](III. Using Spring Boot/20.1. Property defaults.md)
       * [20.2. 自动重启](III. Using Spring Boot/20.2. Automatic restart.md)
          * [20.2.1. 排除资源](III. Using Spring Boot/20.2.1. Excluding resources.md)
