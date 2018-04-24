@@ -64,6 +64,7 @@
    * [20. 开发者工具](III. Using Spring Boot/20. Developer tools.md)
       * [20.1. 默认属性](III. Using Spring Boot/20.1. Property defaults.md)
       * [20.2. 自动重启](III. Using Spring Boot/20.2. Automatic restart.md)
+         * [20.2.1. 在状况评估里记录更改](III. Using Spring Boot/20.2.1. Logging changes in condition evaluation.md)
          * [20.2.1. 排除资源](III. Using Spring Boot/20.2.1. Excluding resources.md)
          * [20.2.2. 查看其他路径](III. Using Spring Boot/20.2.2. Watching additional paths.md)
          * [20.2.3. 禁用重启](III. Using Spring Boot/20.2.3. Disabling restart.md)
