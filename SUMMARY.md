@@ -80,7 +80,7 @@
    * [22. 接下来阅读什么](III. Using Spring Boot/22. What to Read Next.md)
 * [IV. Spring Boot特性](IV. Spring Boot features/README.md)
    * [23. SpringApplication](IV. Spring Boot features/23. SpringApplication.md)
-      * [23.1. 启动失败](IV. Spring Boot features/23.1. Startup failure.md)
+      * [23.1. 启动失败](IV. Spring Boot features/23.1. Startup Failure.md)
       * [23.2. 自定义Banner](IV. Spring Boot features/23.2. Customizing the Banner.md)
       * [23.3. 自定义SpringApplication](IV. Spring Boot features/23.3. Customizing SpringApplication.md)
       * [23.4. 流式构建API](IV. Spring Boot features/23.4. Fluent builder API.md)
