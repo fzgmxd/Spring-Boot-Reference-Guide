@@ -103,7 +103,7 @@
          * [24.6.4. YAML缺点](IV. Spring Boot features/24.6.4. YAML Shortcomings.md)
          * [24.6.5. 合并YAML列表](IV. Spring Boot features/24.6.5. Merging YAML Lists.md)
       * [24.7. 类型安全的配置属性](IV. Spring Boot features/24.7. Type-safe Configuration Properties.md)
-         * [24.7.1. 第三方配置](IV. Spring Boot features/24.7.1. Third-party configuration.md)
+         * [24.7.1. 第三方配置](IV. Spring Boot features/24.7.1. Third-party Configuration.md)
          * [24.7.2. Relaxed绑定](IV. Spring Boot features/24.7.2. Relaxed binding.md)
          * [24.7.3. 属性转换](IV. Spring Boot features/24.7.3. Properties conversion.md)
          * [24.7.4. @ConfigurationProperties校验](IV. Spring Boot features/24.7.4. @ConfigurationProperties Validation.md)
