@@ -113,7 +113,7 @@
       * [25.2.以编程方式设置profiles](IV. Spring Boot features/25.2. Programmatically Setting Profiles.md)
       * [25.3. Profile-specific配置文件](IV. Spring Boot features/25.3. Profile-specific Configuration Files.md)
    * [26. 日志](IV. Spring Boot features/26. Logging.md)
-      * [26.1. 日志格式](IV. Spring Boot features/26.1. Log format.md)
+      * [26.1. 日志格式](IV. Spring Boot features/26.1. Log Format.md)
       * [26.2. 控制台输出](IV. Spring Boot features/26.2. Console output.md)
          * [26.2.1. Color-coded输出](IV. Spring Boot features/26.2.1. Color-coded output.md)
       * [26.3. 文件输出](IV. Spring Boot features/26.3. File output.md)
