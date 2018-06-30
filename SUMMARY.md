@@ -118,7 +118,7 @@
          * [26.2.1. Color-coded输出](IV. Spring Boot features/26.2.1. Color-coded Output.md)
       * [26.3. 文件输出](IV. Spring Boot features/26.3. File Output.md)
       * [26.4. 日志级别](IV. Spring Boot features/26.4. Log Levels.md)
-      * [26.5. 自定义日志配置](IV. Spring Boot features/26.5. Custom log configuration.md)
+      * [26.5. 自定义日志配置](IV. Spring Boot features/26.5. Custom Log Configuration.md)
       * [26.6. Logback扩展](IV. Spring Boot features/26.6. Logback extensions.md)
          * [26.6.1. Profile-specific配置](IV. Spring Boot features/26.6.1. Profile-specific configuration.md)
          * [26.6.2. Environment属性](IV. Spring Boot features/26.6.2. Environment properties.md)
