@@ -122,7 +122,7 @@
       * [26.6. Logback扩展](IV. Spring Boot features/26.6. Logback Extensions.md)
          * [26.6.1. Profile-specific配置](IV. Spring Boot features/26.6.1. Profile-specific Configuration.md)
          * [26.6.2. Environment属性](IV. Spring Boot features/26.6.2. Environment Properties.md)
-   * [27. 开发Web应用](IV. Spring Boot features/27. Developing web applications.md)
+   * [27. 开发Web应用](IV. Spring Boot features/27. Developing Web Applications.md)
       * [27.1. Spring Web MVC框架](IV. Spring Boot features/27.1. The ‘Spring Web MVC framework’.md)
          * [27.1.1. Spring MVC自动配置](IV. Spring Boot features/27.1.1. Spring MVC auto-configuration.md)
          * [27.1.2. HttpMessageConverters](IV. Spring Boot features/27.1.2. HttpMessageConverters.md)
