@@ -136,7 +136,7 @@
          * [27.1.10. 模板引擎](IV. Spring Boot features/27.1.10. Template Engines.md)
          * [27.1.11. 错误处理](IV. Spring Boot features/27.1.11. Error Handling.md)
          * [27.1.12. Spring HATEOAS](IV. Spring Boot features/27.1.12. Spring HATEOAS.md)
-         * [27.1.11. CORS支持](IV. Spring Boot features/27.1.11. CORS support.md)
+         * [27.1.13. CORS支持](IV. Spring Boot features/27.1.13. CORS support.md)
       * [27.2 The ‘Spring WebFlux framework’](IV. Spring Boot features/27.2 The ‘Spring WebFlux framework’.md)
          * [27.2.1 Spring WebFlux auto-configuration](IV. Spring Boot features/27.2.1 Spring WebFlux auto-configuration.md)
          * [27.2.2 HTTP codecs with HttpMessageReaders and HttpMessageWriters](IV. Spring Boot features/27.2.2 HTTP codecs with HttpMessageReaders and HttpMessageWriters.md)
