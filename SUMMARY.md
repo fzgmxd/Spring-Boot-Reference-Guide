@@ -131,6 +131,7 @@
          * [27.1.5. 静态内容](IV. Spring Boot features/27.1.5. Static Content.md)
          * [27.1.6. 欢迎页](IV. Spring Boot features/27.1.6. Welcome Page.md)
          * [27.1.7. 定制网站图标](IV. Spring Boot features/27.1.7. Custom Favicon.md)
+         * [27.1.8. 路径匹配与内容协商](IV. Spring Boot features/27.1.8. Path Matching and Content Negotiation.md)
          * [27.1.7. ConfigurableWebBindingInitializer](IV. Spring Boot features/27.1.7. ConfigurableWebBindingInitializer.md)
          * [27.1.8. 模板引擎](IV. Spring Boot features/27.1.8. Template engines.md)
          * [27.1.9. 错误处理](IV. Spring Boot features/27.1.9. Error Handling.md)
