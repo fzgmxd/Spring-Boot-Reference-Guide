@@ -143,6 +143,7 @@
          * [27.2.3 静态内容](IV. Spring Boot features/27.2.3 Static Content.md)
          * [27.2.4 模板引擎](IV. Spring Boot features/27.2.4 Template Engines.md)
          * [27.2.5 错误处理](IV. Spring Boot features/27.2.5 Error Handling.md)
+         * [27.2.6 网络过滤器](IV. Spring Boot features/27.2.6 Web Filters.md)
       * [27.3. JAX-RS和Jersey](IV. Spring Boot features/27.3. JAX-RS and Jersey.md)
       * [27.4 内嵌servlet容器支持](IV. Spring Boot features/27.4 Embedded servlet container support.md)
          * [27.4.1 Servlets, Filters和listeners](IV. Spring Boot features/27.4.1 Servlets, Filters, and listeners.md)
