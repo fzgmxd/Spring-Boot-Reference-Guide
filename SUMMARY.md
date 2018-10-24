@@ -150,7 +150,7 @@
          * [27.4.2 Servlet上下文初始化](IV. Spring Boot features/27.4.2 Servlet Context Initialization.md)
          * [27.4.3 ServletWebServerApplicationContext](IV. Spring Boot features/27.4.3 The ServletWebServerApplicationContext.md)
          * [27.4.4 自定义内嵌servlet容器](IV. Spring Boot features/27.4.4 Customizing Embedded Servlet Containers.md)
-         * [27.4.5 JSP的限制](IV. Spring Boot features/27.4.5 JSP limitations.md)
+         * [27.4.5 JSP的限制](IV. Spring Boot features/27.4.5 JSP Limitations.md)
    * [28. 安全](IV. Spring Boot features/28. Security.md)
       * [28.1 OAuth2](IV. Spring Boot features/28.1 OAuth2.md)
          * [28.1.1 授权服务器](IV. Spring Boot features/28.1.1 Authorization Server.md)
