@@ -154,7 +154,7 @@
    * [28. 安全](IV. Spring Boot features/28. Security.md)
       * [28.1 MVC安全](IV. Spring Boot features/28.1 MVC Security.md)
       * [28.2 WebFlux安全](IV. Spring Boot features/28.2 WebFlux Security.md)
-      * [28.1 OAuth2](IV. Spring Boot features/28.1 OAuth2.md)
+      * [28.3 OAuth2](IV. Spring Boot features/28.3 OAuth2.md)
          * [28.1.1 授权服务器](IV. Spring Boot features/28.1.1 Authorization Server.md)
          * [28.1.2 资源服务器](IV. Spring Boot features/28.1.2 Resource Server.md)
       * [28.2 User Info中的Token类型](IV. Spring Boot features/28.2 Token Type in User Info.md)
