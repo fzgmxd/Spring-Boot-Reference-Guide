@@ -161,7 +161,7 @@
    * [29. 使用SQL数据库](IV. Spring Boot features/29. Working with SQL Databases.md)
       * [29.1. 配置DataSource](IV. Spring Boot features/29.1. Configure a DataSource.md)
          * [29.1.1. 对内嵌数据库的支持](IV. Spring Boot features/29.1.1. Embedded Database Support.md)
-         * [29.1.2. 连接生产环境数据库](IV. Spring Boot features/29.1.2. Connection to a production database.md)
+         * [29.1.2. 连接生产环境数据库](IV. Spring Boot features/29.1.2. Connection to a Production Database.md)
          * [29.1.3. 连接JNDI数据库](IV. Spring Boot features/29.1.3. Connection to a JNDI DataSource.md)
       * [29.2. 使用JdbcTemplate](IV. Spring Boot features/29.2. Using JdbcTemplate.md)
       * [29.3. JPA和Spring Data](IV. Spring Boot features/29.3. JPA and ‘Spring Data’.md)
