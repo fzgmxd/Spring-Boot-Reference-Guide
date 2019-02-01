@@ -164,7 +164,7 @@
          * [29.1.2. 连接生产环境数据库](IV. Spring Boot features/29.1.2. Connection to a Production Database.md)
          * [29.1.3. 连接JNDI数据库](IV. Spring Boot features/29.1.3. Connection to a JNDI DataSource.md)
       * [29.2. 使用JdbcTemplate](IV. Spring Boot features/29.2. Using JdbcTemplate.md)
-      * [29.3. JPA和Spring Data](IV. Spring Boot features/29.3. JPA and "Spring Data".md)
+      * [29.3. JPA和Spring Data](IV. Spring Boot features/29.3. JPA and Spring Data.md)
          * [29.3.1. 实体类](IV. Spring Boot features/29.3.1. Entity Classes.md)
          * [29.3.2. Spring Data JPA仓库](IV. Spring Boot features/29.3.2. Spring Data JPA Repositories.md)
          * [29.3.3. 创建和删除JPA数据库](IV. Spring Boot features/29.3.3. Creating and dropping JPA databases.md)
