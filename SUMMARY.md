@@ -174,7 +174,7 @@
       * [29.5 使用jOOQ](IV. Spring Boot features/29.5 Using jOOQ.md)
          * [29.5.1 代码生成](IV. Spring Boot features/29.5.1 Code Generation.md)
          * [29.5.2 使用DSLContext](IV. Spring Boot features/29.5.2 Using DSLContext.md)
-         * [29.5.3 jOOQ SQL方言](IV. Spring Boot features/29.5.3 jOOQ SQL dialect.md)
+         * [29.5.3 jOOQ SQL方言](IV. Spring Boot features/29.5.3 jOOQ SQL Dialect.md)
          * [29.5.4 自定义jOOQ](IV. Spring Boot features/29.5.4 Customizing jOOQ.md)
    * [30. 使用NoSQL技术](IV. Spring Boot features/30. Working with NoSQL technologies.md)
       * [30.1. Redis](IV. Spring Boot features/30.1. Redis.md)
