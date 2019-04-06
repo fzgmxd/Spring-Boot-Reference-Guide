@@ -1,6 +1,6 @@
 # Spring-Boot-Reference-Guide
 
-![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 Spring Boot Reference Guide 2.0 中文翻译 -《Spring Boot参考指南》
 
