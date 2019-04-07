@@ -176,7 +176,7 @@
          * [29.5.2 使用DSLContext](IV. Spring Boot features/29.5.2 Using DSLContext.md)
          * [29.5.3 jOOQ SQL方言](IV. Spring Boot features/29.5.3 jOOQ SQL Dialect.md)
          * [29.5.4 自定义jOOQ](IV. Spring Boot features/29.5.4 Customizing jOOQ.md)
-   * [30. 使用NoSQL技术](IV. Spring Boot features/30. Working with NoSQL technologies.md)
+   * [30. 使用NoSQL技术](IV. Spring Boot features/30. Working with NoSQL Technologies.md)
       * [30.1. Redis](IV. Spring Boot features/30.1. Redis.md)
          * [30.1.1. 连接Redis](IV. Spring Boot features/30.1.1. Connecting to Redis.md)
       * [30.2. MongoDB](IV. Spring Boot features/30.2. MongoDB.md)
