@@ -180,7 +180,7 @@
       * [30.1. Redis](IV. Spring Boot features/30.1. Redis.md)
          * [30.1.1. 连接Redis](IV. Spring Boot features/30.1.1. Connecting to Redis.md)
       * [30.2. MongoDB](IV. Spring Boot features/30.2. MongoDB.md)
-         * [30.2.1. 连接MongoDB数据库](IV. Spring Boot features/30.2.1. Connecting to a MongoDB database.md)
+         * [30.2.1. 连接MongoDB数据库](IV. Spring Boot features/30.2.1. Connecting to a MongoDB Database.md)
          * [30.2.2. MongoDBTemplate](IV. Spring Boot features/30.2.2. MongoTemplate.md)
          * [30.2.3. Spring Data MongoDB仓库](IV. Spring Boot features/30.2.3. Spring Data MongoDB repositories.md)
          * [30.2.4 内嵌的Mongo](IV. Spring Boot features/30.2.4 Embedded Mongo.md)
