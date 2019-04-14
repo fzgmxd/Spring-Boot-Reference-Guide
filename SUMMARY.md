@@ -189,7 +189,7 @@
          * [30.3.2 使用内嵌模式](IV. Spring Boot features/30.3.2 Using the Embedded Mode.md)
          * [30.3.3 Neo4jSession](IV. Spring Boot features/30.3.3 Neo4jSession.md)
          * [30.3.4 Spring Data Neo4j仓库](IV. Spring Boot features/30.3.4 Spring Data Neo4j Repositories.md)
-         * [30.3.5 仓库示例](IV. Spring Boot features/30.3.5 Repository example.md)
+         * [30.3.5 仓库示例](IV. Spring Boot features/30.3.5 Repository Example.md)
       * [30.4 Gemfire](IV. Spring Boot features/30.4 Gemfire.md)
       * [30.5 Solr](IV. Spring Boot features/30.5 Solr.md)
          * [30.5.1 连接Solr](IV. Spring Boot features/30.5.1 Connecting to Solr.md)
