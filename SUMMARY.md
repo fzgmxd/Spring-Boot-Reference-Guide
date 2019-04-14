@@ -186,7 +186,7 @@
          * [30.2.4 内嵌的Mongo](IV. Spring Boot features/30.2.4 Embedded Mongo.md)
       * [30.3 Neo4j](IV. Spring Boot features/30.3 Neo4j.md)
          * [30.3.1 连接Neo4j数据库](IV. Spring Boot features/30.3.1 Connecting to a Neo4j Database.md)
-         * [30.3.2 使用内嵌模式](IV. Spring Boot features/30.3.2 Using the embedded mode.md)
+         * [30.3.2 使用内嵌模式](IV. Spring Boot features/30.3.2 Using the Embedded Mode.md)
          * [30.3.3 Neo4jSession](IV. Spring Boot features/30.3.3 Neo4jSession.md)
          * [30.3.4 Spring Data Neo4j仓库](IV. Spring Boot features/30.3.4 Spring Data Neo4j repositories.md)
          * [30.3.5 仓库示例](IV. Spring Boot features/30.3.5 Repository example.md)
