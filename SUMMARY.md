@@ -193,7 +193,7 @@
       * [30.4 Gemfire](IV. Spring Boot features/30.4 Gemfire.md)
       * [30.5 Solr](IV. Spring Boot features/30.5 Solr.md)
          * [30.5.1 连接Solr](IV. Spring Boot features/30.5.1 Connecting to Solr.md)
-         * [30.5.2 Spring Data Solr仓库](IV. Spring Boot features/30.5.2 Spring Data Solr repositories.md)
+         * [30.5.2 Spring Data Solr仓库](IV. Spring Boot features/30.5.2 Spring Data Solr Repositories.md)
       * [30.6 Elasticsearch](IV. Spring Boot features/30.6 Elasticsearch.md)
          * [30.6.1 使用Jest连接Elasticsearch](IV. Spring Boot features/30.6.1 Connecting to Elasticsearch using Jest.md)
          * [30.6.2 使用Spring Data连接Elasticsearch](IV. Spring Boot features/30.6.2 Connecting to Elasticsearch using Spring Data.md)
