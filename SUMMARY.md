@@ -200,7 +200,7 @@
          * [30.6.3 Spring Data Elasticseach仓库](IV. Spring Boot features/30.6.3 Spring Data Elasticsearch Repositories.md)
       * [30.7 Cassandra](IV. Spring Boot features/30.7 Cassandra.md)
          * [30.7.1 连接Cassandra](IV. Spring Boot features/30.7.1 Connecting to Cassandra.md)
-         * [30.7.2 Spring Data Cassandra仓库](IV. Spring Boot features/30.7.2 Spring Data Cassandra repositories.md)
+         * [30.7.2 Spring Data Cassandra仓库](IV. Spring Boot features/30.7.2 Spring Data Cassandra Repositories.md)
       * [30.8 Couchbase](IV. Spring Boot features/30.8 Couchbase.md)
          * [30.8.1 连接Couchbase](IV. Spring Boot features/30.8.1 Connecting to Couchbase.md)
          * [30.8.2 Spring Data Couchbase仓库](IV. Spring Boot features/30.8.2 Spring Data Couchbase repositories.md)
