@@ -203,7 +203,7 @@
          * [30.7.2 Spring Data Cassandra仓库](IV. Spring Boot features/30.7.2 Spring Data Cassandra Repositories.md)
       * [30.8 Couchbase](IV. Spring Boot features/30.8 Couchbase.md)
          * [30.8.1 连接Couchbase](IV. Spring Boot features/30.8.1 Connecting to Couchbase.md)
-         * [30.8.2 Spring Data Couchbase仓库](IV. Spring Boot features/30.8.2 Spring Data Couchbase repositories.md)
+         * [30.8.2 Spring Data Couchbase仓库](IV. Spring Boot features/30.8.2 Spring Data Couchbase Repositories.md)
       * [30.9 LDAP](IV. Spring Boot features/30.9 LDAP.md)
          * [30.9.1 连接LDAP服务器](IV. Spring Boot features/30.9.1 Connecting to an LDAP server.md)
          * [30.9.2 Spring Data LDAP仓库](IV. Spring Boot features/30.9.2 Spring Data LDAP repositories.md)
