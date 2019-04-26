@@ -211,7 +211,7 @@
       * [30.10 InfluxDB](IV. Spring Boot features/30.10 InfluxDB.md)
          * [30.10.1 连接InfluxDB](IV. Spring Boot features/30.10.1 Connecting to InfluxDB.md)
    * [31. 缓存](IV. Spring Boot features/31. Caching.md)
-      * [31.1 支持的缓存提供商](IV. Spring Boot features/31.1 Supported cache providers.md)
+      * [31.1 支持的缓存提供商](IV. Spring Boot features/31.1 Supported Cache Providers.md)
          * [31.1.1 Generic](IV. Spring Boot features/31.1.1 Generic.md)
          * [31.1.2 JCache (JSR-107)](IV. Spring Boot features/31.1.2 JCache（JSR-107）.md)
          * [31.1.3 EhCache 2.x](IV. Spring Boot features/31.1.3 EhCache 2.x.md)
