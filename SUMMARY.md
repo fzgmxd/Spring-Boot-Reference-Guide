@@ -239,6 +239,8 @@
          * [32.3.3 其它的Kafka属性](IV. Spring Boot features/32.3.3 Additional Kafka Properties.md)
    * [33. 使用RestTemplate调用REST服务](IV. Spring Boot features/33. Calling REST Services with RestTemplate.md)
       * [33.1 自定义RestTemplate](IV. Spring Boot features/33.1 RestTemplate Customization.md)
+   * [34. 使用WebClient调用REST服务](IV. Spring Boot features/34. Calling REST Services with WebClient.md)
+      * [34.1 自定义WebClient](IV. Spring Boot features/34.1 WebClient Customization.md)
    * [34. 验证](IV. Spring Boot features/34. Validation.md)
    * [35. 发送邮件](IV. Spring Boot features/35. Sending email.md)
    * [36. 使用JTA处理分布式事务](IV. Spring Boot features/36. Distributed Transactions with JTA.md)
