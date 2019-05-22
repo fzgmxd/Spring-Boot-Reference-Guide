@@ -254,7 +254,7 @@
    * [39. Quartz调度器](IV. Spring Boot features/39. Quartz Scheduler.md)
    * [40. Spring集成](IV. Spring Boot features/40. Spring Integration.md)
    * [41. Spring Session](IV. Spring Boot features/41. Spring Session.md)
-   * [42. 基于JMX的监控和管理](IV. Spring Boot features/42. Monitoring and management over JMX.md)
+   * [42. 基于JMX的监控和管理](IV. Spring Boot features/42. Monitoring and Management over JMX.md)
    * [43. 测试](IV. Spring Boot features/43. Testing.md)
       * [42.1 测试作用域依赖](IV. Spring Boot features/42.1 Test scope dependencies.md)
       * [42.2 测试Spring应用](IV. Spring Boot features/42.2 Testing Spring applications.md)
