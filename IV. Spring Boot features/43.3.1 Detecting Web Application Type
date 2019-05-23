@@ -1,0 +1,11 @@
+### 43.3.1 检测网络应用类型
+
+如果Spring MVC可用，一个常规的基于MVC的应用上下文会被配置好。如果你只有Spring WebFlux，我们会检测并配置一个基于WebFlux的应用上下文。
+
+如果两个都有，Spring MVC优先。在这种情况下，如果你想要测试一个响应式的网络应用，你必须设置`spring.main.web-application-type`属性：
+
+```java
+@RunWith(SpringRunner.class)
+@SpringBootTest(properties = "spring.main.web-application-type=reactive")
+public class MyWebFluxTests { ... }
+```
