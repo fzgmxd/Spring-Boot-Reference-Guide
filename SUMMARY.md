@@ -278,7 +278,7 @@
          * [43.3.17 自动配置的REST客户端](IV. Spring Boot features/43.3.17 Auto-configured REST Clients.md)
          * [43.3.18 自动配置的Spring REST Docs测试](IV. Spring Boot features/43.3.18 Auto-configured Spring REST Docs Tests.md)
          * [43.3.19 用户配置与切片](IV. Spring Boot features/43.3.19 User Configuration and Slicing.md)
-         * [43.3.20 使用Spock测试Spring Boot应用](IV. Spring Boot features/43.3.19 Using Spock to Test Spring Boot Applications.md)
+         * [43.3.20 使用Spock测试Spring Boot应用](IV. Spring Boot features/43.3.20 Using Spock to Test Spring Boot Applications.md)
       * [42.4 测试工具类](IV. Spring Boot features/42.4 Test utilities.md)
          * [42.4.1 ConfigFileApplicationContextInitializer](IV. Spring Boot features/42.4.1 ConfigFileApplicationContextInitializer.md)
          * [42.4.2 EnvironmentTestUtils](IV. Spring Boot features/42.4.2 EnvironmentTestUtils.md)
