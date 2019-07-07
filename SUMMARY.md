@@ -287,7 +287,7 @@
    * [44. WebSockets](IV. Spring Boot features/44. WebSockets.md)
    * [45. Web Services](IV. Spring Boot features/45. Web Services.md)
    * [46. 创建自己的自动配置](IV. Spring Boot features/46. Creating Your Own Auto-configuration.md)
-      * [46.1 理解自动配置的bean](IV. Spring Boot features/46.1 Understanding Auto-configured beans.md)
+      * [46.1 理解自动配置的bean](IV. Spring Boot features/46.1 Understanding Auto-configured Beans.md)
       * [46.2 定位自动配置候选者](IV. Spring Boot features/46.2 Locating Auto-configuration Candidates.md)
       * [46.3 条件注解](IV. Spring Boot features/46.3 Condition Annotations.md)
          * [46.3.1 Class条件](IV. Spring Boot features/46.3.1 Class conditions.md)
