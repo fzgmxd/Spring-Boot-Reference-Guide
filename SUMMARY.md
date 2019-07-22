@@ -319,6 +319,7 @@
 * [V. Spring Boot执行器: Production-ready特性](V. Spring Boot Actuator/README.md)
    * [49. 开启production-ready特性](V. Spring Boot Actuator/49. Enabling Production-ready Features.md)
    * [50. 端点](V. Spring Boot Actuator/50. Endpoints.md)
+      * [50.1 启用端点](V. Spring Boot Actuator/50.1 Enabling Endpoints.md)
       * [50.1 自定义端点](V. Spring Boot Actuator/50.1 Customizing Endpoints.md)
       * [50.2 执行器MVC端点的超媒体支持](V. Spring Boot Actuator/50.2 Hypermedia for Actuator MVC Endpoints.md)
       * [50.3 CORS支持](V. Spring Boot Actuator/50.3 CORS Support.md)
