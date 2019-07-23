@@ -321,6 +321,7 @@
    * [50. 端点](V. Spring Boot Actuator/50. Endpoints.md)
       * [50.1 启用端点](V. Spring Boot Actuator/50.1 Enabling Endpoints.md)
       * [50.2 暴露端点](V. Spring Boot Actuator/50.2 Exposing Endpoints.md)
+      * [50.3 加密HTTP端点](V. Spring Boot Actuator/50.3 Securing HTTP Endpoints.md)
       * [50.1 自定义端点](V. Spring Boot Actuator/50.1 Customizing Endpoints.md)
       * [50.2 执行器MVC端点的超媒体支持](V. Spring Boot Actuator/50.2 Hypermedia for Actuator MVC Endpoints.md)
       * [50.3 CORS支持](V. Spring Boot Actuator/50.3 CORS Support.md)
