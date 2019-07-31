@@ -328,6 +328,7 @@
       * [50.7 CORS支持](V. Spring Boot Actuator/50.7 CORS Support.md)
       * [50.8 实现自定义端点](V. Spring Boot Actuator/50.8 Implementing Custom Endpoints.md)
          * [50.8.1 接收输入](IV. Spring Boot features/50.8.1 Receiving Input.md)
+         * [50.8.2 自定义网络端点](IV. Spring Boot features/50.8.2 Custom Web Endpoints.md)
       * [50.9 健康信息](V. Spring Boot Actuator/50.9 Health Information.md)
       * [50.10 安全与HealthIndicators](V. Spring Boot Actuator/50.10 Security with HealthIndicators.md)
          * [50.10.1 自动配置的HealthIndicators](V. Spring Boot Actuator/50.10.1 Auto-configured-HealthIndicators.md)
