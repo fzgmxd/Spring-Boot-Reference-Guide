@@ -334,6 +334,8 @@
       * [50.9 健康信息](V. Spring Boot Actuator/50.9 Health Information.md)
          * [50.9.1 自动配置的HealthIndicator](V. Spring Boot Actuator/50.9.1 Auto-configured HealthIndicators.md)
          * [50.9.2 编写自定义HealthIndicator](V. Spring Boot Actuator/50.9.2 Writing Custom HealthIndicators.md)
+         * [50.9.3 响应式的健康指示器](V. Spring Boot Actuator/50.9.3 Reactive Health Indicators.md)
+         * [50.9.4 自动配置的ReactiveHealthIndicators](V. Spring Boot Actuator/50.9.4 Auto-configured ReactiveHealthIndicators.md)
       * [50.10 应用信息](V. Spring Boot Actuator/50.10 Application Information.md)
          * [50.10.1 自动配置的InfoContributors](V. Spring Boot Actuator/50.10.1 Auto-configured InfoContributors.md)
          * [50.10.2 自定义应用info信息](V. Spring Boot Actuator/50.10.2 Custom Application Info Information.md)
