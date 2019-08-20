@@ -348,7 +348,6 @@
       * [51.3 配置管理相关的SSL](V. Spring Boot Actuator/51.3 Configuring Management-specific SSL.md)
       * [51.4 自定义管理服务器地址](V. Spring Boot Actuator/51.4 Customizing the Management Server Address.md)
       * [51.5 禁用HTTP端点](V. Spring Boot Actuator/51.5 Disabling HTTP Endpoints.md)
-      * [51.6 HTTP health端点访问限制](V. Spring Boot Actuator/51.6 HTTP Health Endpoint Access Restrictions.md)
    * [52. 基于JMX的监控和管理](V. Spring Boot Actuator/52. Monitoring and Management over JMX.md)
       * [52.1 自定义MBean名称](V. Spring Boot Actuator/52.1 Customizing MBean Names.md)
       * [52.2 禁用JMX端点](V. Spring Boot Actuator/52.2 Disabling JMX Endpoints.md)
