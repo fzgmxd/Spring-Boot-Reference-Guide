@@ -373,7 +373,6 @@
          * [54.2.12 Wavefront](V. Spring Boot Actuator/54.2.12 Wavefront.md)
       * [54.2 数据源指标](V. Spring Boot Actuator/54.2 DataSource Metrics.md)
       * [54.3 缓存指标](V. Spring Boot Actuator/54.3 Cache Metrics.md)
-      * [54.5 记录自己的指标](V. Spring Boot Actuator/54.5 Recording your own Metrics.md)
       * [54.6 添加自己的公共指标](V. Spring Boot Actuator/54.6 Adding your own public Metrics.md)
       * [54.7 指标写入,导出和聚合](V. Spring Boot Actuator/54.7 Metric writers, exporters and aggregation.md)
          * [54.7.1 示例: 导出到Redis](V. Spring Boot Actuator/54.7.1 Export to Redis.md)
