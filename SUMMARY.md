@@ -373,8 +373,6 @@
          * [54.2.12 Wavefront](V. Spring Boot Actuator/54.2.12 Wavefront.md)
       * [54.2 数据源指标](V. Spring Boot Actuator/54.2 DataSource Metrics.md)
       * [54.3 缓存指标](V. Spring Boot Actuator/54.3 Cache Metrics.md)
-         * [54.7.2 示例: 导出到Open TSDB](V. Spring Boot Actuator/54.7.2 Export to Open TSDB.md)
-         * [54.7.3 示例: 导出到Statsd](V. Spring Boot Actuator/54.7.3 Export to Statsd.md)
          * [54.7.4 示例: 导出到JMX](V. Spring Boot Actuator/54.7.4 Export to JMX.md)
       * [54.8 聚合多个来源的指标](V. Spring Boot Actuator/54.8 Aggregating Metrics from Multiple Sources.md)
       * [54.9 Dropwizard指标](V. Spring Boot Actuator/54.9 Dropwizard Metrics.md)
