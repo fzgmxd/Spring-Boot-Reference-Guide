@@ -373,7 +373,6 @@
          * [54.2.12 Wavefront](V. Spring Boot Actuator/54.2.12 Wavefront.md)
       * [54.2 数据源指标](V. Spring Boot Actuator/54.2 DataSource Metrics.md)
       * [54.3 缓存指标](V. Spring Boot Actuator/54.3 Cache Metrics.md)
-      * [54.10 消息渠道集成](V. Spring Boot Actuator/54.10 Message Channel Integration.md)
    * [55. 审计](V. Spring Boot Actuator/55. Auditing.md)
    * [56. 追踪](V. Spring Boot Actuator/56. Tracing.md)
       * [56.1 自定义追踪](V. Spring Boot Actuator/56.1 Custom Tracing.md)
