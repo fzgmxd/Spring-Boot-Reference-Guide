@@ -371,6 +371,8 @@
          * [54.2.10 Simple](V. Spring Boot Actuator/54.2.10 Simple.md)
          * [54.2.11 StatsD](V. Spring Boot Actuator/54.2.11 StatsD.md)
          * [54.2.12 Wavefront](V. Spring Boot Actuator/54.2.12 Wavefront.md)
+      * [54.3 支持的指标](V. Spring Boot Actuator/54.3 Supported Metrics.md)
+         * [54.3.1 Spring MVC指标](V. Spring Boot Actuator/54.3.1 Spring MVC Metrics.md)
       * [54.2 数据源指标](V. Spring Boot Actuator/54.2 DataSource Metrics.md)
       * [54.3 缓存指标](V. Spring Boot Actuator/54.3 Cache Metrics.md)
    * [55. 审计](V. Spring Boot Actuator/55. Auditing.md)
