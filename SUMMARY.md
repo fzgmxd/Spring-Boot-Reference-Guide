@@ -382,6 +382,7 @@
       * [54.4 注册自定义指标](V. Spring Boot Actuator/54.4 Registering custom metrics.md)
       * [54.5 自定义单个指标](V. Spring Boot Actuator/54.5 Customizing individual metrics.md)
          * [54.5.1 Per-meter属性](V. Spring Boot Actuator/54.5.1 Per-meter properties.md)
+      * [54.6 度量端点](V. Spring Boot Actuator/54.6 Metrics endpoint.md)
    * [55. 审计](V. Spring Boot Actuator/55. Auditing.md)
    * [56. 追踪](V. Spring Boot Actuator/56. Tracing.md)
       * [56.1 自定义追踪](V. Spring Boot Actuator/56.1 Custom Tracing.md)
