@@ -392,7 +392,7 @@
    * [58. Cloud Foundry支持](V. Spring Boot Actuator/58. Cloud Foundry Support.md)
       * [58.1 禁用扩展的Cloud Foundry执行器支持](V. Spring Boot Actuator/58.1 Disabling Extended Cloud Foundry Actuator Support.md)
       * [58.2 Cloud Foundry自签名证书](V. Spring Boot Actuator/58.2 Cloud Foundry Self-signed Certificates.md)
-      * [58.3 自定义安全配置](V. Spring Boot Actuator/58.3 Custom Security Configuration.md)
+      * [58.3 自定义上下文路径](V. Spring Boot Actuator/58.3 Custom context path.md.md)
    * [59. 接下来阅读什么](V. Spring Boot Actuator/59. What to Read Next.md)
 * [VI. 部署到云端](VI. Deploying Spring Boot applications/README.md)
    * [58. 部署到云端](VI. Deploying Spring Boot applications/58. Deploying to the cloud.md)
