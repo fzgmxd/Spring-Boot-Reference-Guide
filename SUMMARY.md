@@ -404,7 +404,7 @@
          * [60.4.1 AWS Elastic Beanstalk](VI. Deploying Spring Boot Applications/60.4.1 AWS Elastic Beanstalk.md)
          * [60.4.2 总结](VI. Deploying Spring Boot Applications/60.4.2 Summary.md)
       * [60.5 Boxfuse和亚马逊网络服务](VI. Deploying Spring Boot Applications/60.5 Boxfuse and Amazon Web Services.md)
-      * [60.6 Google App Engine](VI. Deploying Spring Boot Applications/60.6 Google App Engine.md)
+      * [60.6 Google Cloud](VI. Deploying Spring Boot Applications/60.6 Google Cloud.md)
    * [61. 安装Spring Boot应用](VI. Deploying Spring Boot Applications/61. Installing Spring Boot Applications.md)
       * [61.1 支持的操作系统](VI. Deploying Spring Boot Applications/61.1 Supported Operating Systems.md)
       * [61.2 Unix/Linux服务](VI. Deploying Spring Boot Applications/61.2 Unix&Linux services.md)
