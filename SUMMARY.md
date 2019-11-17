@@ -407,7 +407,7 @@
       * [60.6 Google Cloud](VI. Deploying Spring Boot Applications/60.6 Google Cloud.md)
    * [61. 安装Spring Boot应用](VI. Deploying Spring Boot Applications/61. Installing Spring Boot Applications.md)
       * [61.1 支持的操作系统](VI. Deploying Spring Boot Applications/61.1 Supported Operating Systems.md)
-      * [61.2 Unix/Linux服务](VI. Deploying Spring Boot Applications/61.2 Unix&Linux services.md)
+      * [61.2 Unix/Linux服务](VI. Deploying Spring Boot Applications/61.2 Unix&Linux Services.md)
          * [61.2.1 安装为init.d服务(System V)](VI. Deploying Spring Boot Applications/61.2.1 Installation as an init.d Service（System V）.md)
          * [61.2.2 安装为Systemd服务](VI. Deploying Spring Boot Applications/61.2.2 Installation as a systemd Service.md)
          * [61.2.3 自定义启动脚本](VI. Deploying Spring Boot Applications/61.2.3 Customizing the Startup Script.md)
