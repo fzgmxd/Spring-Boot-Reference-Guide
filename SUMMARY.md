@@ -421,7 +421,7 @@
          * [64.1.2 推断"grab"坐标](VII. Spring Boot CLI/64.1.2 Deduced “grab” Coordinates.md)
          * [64.1.3 默认import语句](VII. Spring Boot CLI/64.1.3 Default Import Statements.md)
          * [64.1.4 自动创建main方法](VII. Spring Boot CLI/64.1.4 Automatic Main Method.md)
-         * [64.1.5 自定义依赖管理](VII. Spring Boot CLI/62.1.5 Custom Dependency Management.md)
+         * [64.1.5 自定义依赖管理](VII. Spring Boot CLI/64.1.5 Custom Dependency Management.md)
       * [64.2 多源文件应用](VII. Spring Boot CLI/64.2 Applications with Multiple Source Files.md)
       * [64.3 应用打包](VII. Spring Boot CLI/64.3 Packaging Your Application.md)
       * [64.4 初始化新工程](VII. Spring Boot CLI/64.4 Initialize a New Project.md)
