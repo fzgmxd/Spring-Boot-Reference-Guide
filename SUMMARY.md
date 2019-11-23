@@ -416,7 +416,7 @@
 * [VII. Spring Boot CLI](VII. Spring Boot CLI/README.md)
    * [63. 安装CLI](VII. Spring Boot CLI/63. Installing the CLI.md)
    * [64. 使用CLI](VII. Spring Boot CLI/64. Using the CLI.md)
-      * [64.1 使用CLI运行应用](VII. Spring Boot CLI/64.1. Running Applications using the CLI.md)
+      * [64.1 使用CLI运行应用](VII. Spring Boot CLI/64.1. Running Applications with the CLI.md)
          * [64.1.1 推断"grab"依赖](VII. Spring Boot CLI/64.1.1 Deduced “grab” Dependencies.md)
          * [64.1.2 推断"grab"坐标](VII. Spring Boot CLI/64.1.2 Deduced “grab” Coordinates.md)
          * [64.1.3 默认import语句](VII. Spring Boot CLI/64.1.3 Default Import Statements.md)
