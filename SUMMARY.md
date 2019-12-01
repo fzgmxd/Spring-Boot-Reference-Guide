@@ -443,7 +443,7 @@
          * [70.2.1. 示例](VIII. Build tool plugins/70.2.1. Examples.md)
    * [71. 对其他构建系统的支持](VIII. Build tool plugins/71. Supporting Other Build Systems.md)
       * [71.1. 重新打包存档](VIII. Build tool plugins/71.1. Repackaging Archives.md)
-      * [71.2. 内嵌库](VIII. Build tool plugins/71.2.Nested Libraries.md)
+      * [71.2. 内嵌库](VIII. Build tool plugins/71.2. Nested Libraries.md)
       * [71.3. 查找main类](VIII. Build tool plugins/71.3. Finding a Main Class.md)
       * [71.4. repackage实现示例](VIII. Build tool plugins/71.4. Example Repackage Implementation.md)
    * [72. 接下来阅读什么](VIII. Build tool plugins/72. What to Read Next.md)
