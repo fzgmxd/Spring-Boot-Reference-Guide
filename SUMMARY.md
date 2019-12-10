@@ -460,7 +460,7 @@
          * [74.1.2. 使用Gradle自动暴露属性](IX. ‘How-to’ guides/74.1.2. Automatic Property Expansion Using Gradle.md)
       * [74.2. 外部化SpringApplication配置](IX. ‘How-to’ guides/74.2. Externalize the Configuration of SpringApplication.md)
       * [74.3 改变应用程序外部配置文件的位置](IX. ‘How-to’ guides/74.3 Change the Location of External Properties of an Application.md)
-      * [74.4 使用'short'命令行参数](IX. ‘How-to’ guides/74.4 Use ‘Short’ Command Line Arguments.md)
+      * [74.4 使用“短”命令行参数](IX. ‘How-to’ guides/74.4 Use ‘Short’ Command Line Arguments.md)
       * [74.5 使用YAML配置外部属性](IX. ‘How-to’ guides/74.5 Use YAML for External Properties.md)
       * [74.6 设置生效的Spring profiles](IX. ‘How-to’ guides/74.6 Set the Active Spring Profiles.md)
       * [74.7 根据环境改变配置](IX. ‘How-to’ guides/74.7 Change Configuration Depending on the Environment.md)
