@@ -473,7 +473,7 @@
          * [75.3.2 使用类路径扫描添加Servlet、Filter和Listener](IX. ‘How-to’ guides/75.3.2 Add Servlets, Filters, and Listeners by Using Classpath Scanning.md)
       * [75.4 改变HTTP端口](IX. ‘How-to’ guides/75.4 Change the HTTP Port.md)
       * [75.5 使用随机未分配的HTTP端口](IX. ‘How-to’ guides/75.5 Use a Random Unassigned HTTP Port.md)
-      * [75.6 发现运行时的HTTP端口](IX. ‘How-to’ guides/75.6 Discover the HTTP Port at Runtime.md)
+      * [75.6 在运行时发现HTTP端口](IX. ‘How-to’ guides/75.6 Discover the HTTP Port at Runtime.md)
       * [75.7 配置SSL](IX. ‘How-to’ guides/75.7 Configure SSL.md)
       * [73.6 配置访问日志](IX. ‘How-to’ guides/73.6 Configure Access Logging.md)
       * [73.7 在前端代理服务器后使用](IX. ‘How-to’ guides/73.7 Use behind a front-end proxy server.md)
