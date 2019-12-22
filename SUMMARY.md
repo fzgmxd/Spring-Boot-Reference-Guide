@@ -482,7 +482,7 @@
       * [75.9 配置访问日志](IX. ‘How-to’ guides/75.9 Configure Access Logging.md)
       * [75.10 在前端代理服务器后运行](IX. ‘How-to’ guides/75.10 Running Behind a Front-end Proxy Server.md)
          * [75.10.1 自定义Tomcat代理配置](IX. ‘How-to’ guides/75.10.1 Customize Tomcat’s Proxy Configuration.md)
-      * [73.8 配置Tomcat](IX. ‘How-to’ guides/73.8 Configure Tomcat.md)
+      * [75.11 配置Tomcat](IX. ‘How-to’ guides/75.11 Configure Tomcat.md)
       * [73.9 启用Tomcat的多连接器](IX. ‘How-to’ guides/73.9 Enable Multiple Connectors with Tomcat.md)
       * [73.10 使用Tomcat的LegacyCookieProcessor](IX. ‘How-to’ guides/73.10 Use Tomcat’s LegacyCookieProcessor.md)
       * [73.11 使用Jetty替代Tomcat](IX. ‘How-to’ guides/73.11 Use Jetty instead of Tomcat.md)
