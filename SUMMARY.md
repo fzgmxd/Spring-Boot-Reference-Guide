@@ -159,7 +159,7 @@
       * [28.4 执行器安全](IV. Spring Boot features/28.4 Actuator Security.md)
          * [28.4.1 跨站请求伪造保护](IV. Spring Boot features/28.4.1 Cross Site Request Forgery Protection.md)
    * [29. 使用SQL数据库](IV. Spring Boot features/29. Working with SQL Databases.md)
-      * [29.1. 配置DataSource](IV. Spring Boot features/29.1. Configure a DataSource.md)
+      * [29.1. 配置数据源](IV. Spring Boot features/29.1. Configure a DataSource.md)
          * [29.1.1. 对内嵌数据库的支持](IV. Spring Boot features/29.1.1. Embedded Database Support.md)
          * [29.1.2. 连接生产环境数据库](IV. Spring Boot features/29.1.2. Connection to a Production Database.md)
          * [29.1.3. 连接JNDI数据库](IV. Spring Boot features/29.1.3. Connection to a JNDI DataSource.md)
