@@ -514,7 +514,7 @@
       * [79.6 配置Hibernate命名策略](IX. ‘How-to’ guides/79.6 Configure Hibernate Naming Strategy.md)
       * [79.7 使用自定义EntityManagerFactory](IX. ‘How-to’ guides/79.7 Use a Custom EntityManagerFactory.md)
       * [79.8 使用两个EntityManagers](IX. ‘How-to’ guides/79.8 Use Two EntityManagers.md)
-      * [79.9 使用普通的persistence.xml文件](IX. ‘How-to’ guides/79.9 Use a Traditional persistence.xml File.md)
+      * [79.9 使用传统的persistence.xml文件](IX. ‘How-to’ guides/79.9 Use a Traditional persistence.xml File.md)
       * [79.10 使用Spring Data JPA和Mongo仓库](IX. ‘How-to’ guides/79.10 Use Spring Data JPA and Mongo Repositories.md)
       * [79.11 将Spring Data仓库暴露为REST端点](IX. ‘How-to’ guides/79.11 Expose Spring Data Repositories as REST Endpoint.md)
       * [79.12 配置JPA使用的组件](IX. ‘How-to’ guides/79.12 Configure a Component that is Used by JPA.md)
