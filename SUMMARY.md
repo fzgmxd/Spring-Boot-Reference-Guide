@@ -518,7 +518,7 @@
       * [79.10 使用Spring Data JPA和Mongo仓库](IX. ‘How-to’ guides/79.10 Use Spring Data JPA and Mongo Repositories.md)
       * [79.11 将Spring Data仓库暴露为REST端点](IX. ‘How-to’ guides/79.11 Expose Spring Data Repositories as REST Endpoint.md)
       * [79.12 配置JPA使用的组件](IX. ‘How-to’ guides/79.12 Configure a Component that is Used by JPA.md)
-      * [79.13 使用两个数据源配置jOOQ](IX. ‘How-to’ guides/79.13. Configure jOOQ with Two DataSources.md)
+      * [79.13 使用两个数据源配置jOOQ](IX. ‘How-to’ guides/79.13 Configure jOOQ with Two DataSources.md)
    * [80. 数据库初始化](IX. ‘How-to’ guides/80. Database Initialization.md)
       * [80.1 使用JPA初始化数据库](IX. ‘How-to’ guides/80.1 Initialize a Database Using JPA.md)
       * [80.2 使用Hibernate初始化数据库](IX. ‘How-to’ guides/80.2 Initialize a Database Using Hibernate.md)
