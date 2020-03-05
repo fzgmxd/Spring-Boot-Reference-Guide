@@ -16,6 +16,6 @@ GitHub : [Spring Boot参考指南](https://github.com/jack80342/Spring-Boot-Refe
 
 如果这份文档帮到了你🙃，你可以给我家的小白买几条小鱼干🐟。
 
-|WeChatPay|ALipay|
-|:----|:----|
-|![WeChatPay](https://github.com/jack80342/Materials/blob/master/wechatpay.jpg)|![ALiPay](https://github.com/jack80342/Materials/blob/master/alipay.jpg)|
+|WeChatPay|ALipay|[Paypal](https://www.paypal.me/jack8034)|
+|:----|:----|:----|
+|![WeChatPay](https://github.com/jack80342/Materials/blob/master/wechatpay.jpg)|![ALiPay](https://github.com/jack80342/Materials/blob/master/alipay.jpg)|![PayPal](https://github.com/jack80342/Materials/blob/master/paypal.PNG)|
