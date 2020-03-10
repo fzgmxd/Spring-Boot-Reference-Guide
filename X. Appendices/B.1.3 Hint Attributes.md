@@ -4,9 +4,9 @@
 
 |名称|类型|目的|
 |----|:----|:----|
-|`name`|String|该hint参考的property的全名。格式为小写虚线分割的形式（比如`server.servlet.path`）。如果这个属性参考一个map（比如`system.contexts`），hint要么应用到map的key（`system.context.keys`）上，要么应用到value上（`system.context.values`）。该属性是强制性的|
-|`values`|ValueHint[]|由`ValueHint`对象定义的有效值的列表（看下面）。每一个入口都定义了值，并可能有一段描述|
-|`providers`|ValueProvider[]|由`ValueProvider`对象定义的提供者的列表（看下面）。每一个入口都定义了提供者的名字和它的参数，如果有的话|
+|`name`|String|该hint参考的property的全名。格式为小写句点分割的形式（比如`server.servlet.path`）。如果这个属性参考一个map（比如`system.contexts`），hint要么应用到map的key（`system.context.keys`）上，要么应用到value上（`system.context.values`）。该属性是强制性的|
+|`values`|ValueHint[]|由`ValueHint`对象定义的有效值的列表（在下表中说明）。每一个入口都定义了值，并可能有一段描述|
+|`providers`|ValueProvider[]|由`ValueProvider`对象定义的提供者的列表（本文档稍后将对此进行描述）。每一个入口都定义了提供者的名字和它的参数，如果有的话|
 
 每一个`hint`元素的`values`属性包含的JSON对象可以包含如下的属性：
 
